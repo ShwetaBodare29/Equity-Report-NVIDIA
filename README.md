@@ -7,7 +7,7 @@
 
 ---
 
-## Power BI – Valuation Dashboard Screenshot
+## Power BI – Valuation Dashboard
 
 ![Power BI Dashboard](https://raw.githubusercontent.com/ShwetaBodare29/Equity-Report-NVIDIA/main/Snapshot%20of%20my%20Dashboard.png)
 
