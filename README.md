@@ -89,3 +89,17 @@ To pressure-test this, our **Exit Multiple** analysis suggests a higher ceiling 
 We are initiating coverage on NVIDIA with an **Overweight** rating and a **12-month price target** of **$275**. With the stock currently trading around **$176.67**, this represents a projected upside of roughly **55.7%**.
 
 ---
+
+## Power BI - Budget & Actual Variance Analysis
+
+<img width="1474" height="1211" alt="image" src="https://github.com/user-attachments/assets/9ba075c3-8c68-4104-858b-fb165b6ddff4" />
+
+---
+
+## FY26 Budget vs Actual: Key Insights (As of March 2026)
+The FY26 budget was phased across quarters using a 20%/23%/25%/32% split (Q1-Q4), reflecting NVIDIA's established seasonality pattern of softer Q1 performance and accelerating growth through Q3-Q4 driven by holiday demand and enterprise year-end spending. This analysis incorporates full-year FY26 actuals now available.
+- Revenue beat budget by 4.1%, primarily driven by Graphics revenue exceeding expectations by 42.7% as the Blackwell gaming ramp proved stronger than forecasted, while Compute & Networking remained broadly in line at +0.9%.
+- COGS increased 10.7% above budget due to product mix shifting toward premium Blackwell systems and one-off charges, resulting in modest gross margin compression of approximately 170 basis points.
+- Operating expenses demonstrated strong discipline, with SG&A landing 47.4% below budget and R&D 25.7% below target, validating cost control amid revenue acceleration.
+- Bottom-line performance accelerated dramatically: EBITDA +68.5%, EBIT +573%, Net Income +580%, and Free Cash Flow +647% versus budget, confirming the durability of NVIDIA's high-margin ecosystem model.
+
