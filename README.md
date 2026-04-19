@@ -1,4 +1,4 @@
-# NVIDIA Corporation (NVDA) — Equity Research Summary  
+# NVIDIA Corporation (NVDA) — Research Summary  
 **Sector:** Semiconductors / AI Infrastructure  
 **Rating:** Buy / Overweight  
 **Target Price:** $275  
